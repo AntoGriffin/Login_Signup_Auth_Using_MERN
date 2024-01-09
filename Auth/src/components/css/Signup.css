@@ -1,0 +1,65 @@
+/* Use a container element to center the form */
+.container {
+    margin: 0 auto;
+    width: 50%;
+  }
+  
+  /* Style the form elements */
+  form {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+  
+  input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+    background-color: #04AA6D;
+    color: white;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Style the link element */
+  a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #04AA6D;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+
+  p{
+    display: block;
+    text-align: center;
+  }
+  
