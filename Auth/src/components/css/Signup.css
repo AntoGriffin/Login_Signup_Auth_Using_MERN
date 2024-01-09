@@ -3,6 +3,11 @@
     margin: 0 auto;
     width: 50%;
   }
+
+.home{
+    text-align:center;
+    font-size:500%;
+}
   
   /* Style the form elements */
   form {
